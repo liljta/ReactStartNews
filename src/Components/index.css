@@ -1,0 +1,67 @@
+body{
+    background: whitesmoke;
+}
+
+h1{
+    color: #17a2b8;
+    font-weight: 800;
+    font-size: 55px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #18807c;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.shadow{
+    box-shadow: 2px 3px 8px 0px rgba(155,155,155,0.75);
+    height: 98%;
+}
+
+.tab-content article img {
+    width: 100%;
+    height: auto;
+}
+h2 a{
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 0.1px !important;
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+}
+
+.valuta{
+    color: #17a2b8;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.tab-content-weather td {
+    padding: 0;
+}
+h2{
+    font-size: 25px;
+    font-weight: 700;
+    color: #17a2b8;
+}
